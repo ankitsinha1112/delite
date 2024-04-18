@@ -1,0 +1,18 @@
+.toptitle .heading3,.toptitle .heading5{
+    color: #D72638;
+}
+.violet{
+    color: #3A244A;
+}
+.toptitle .heading3{
+    font-weight: 800;
+}
+.toptitle .heading5{
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.toptitle .heading5 .violet
+{
+    text-decoration: underline;
+}
